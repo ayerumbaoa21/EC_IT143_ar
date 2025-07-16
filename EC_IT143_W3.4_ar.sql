@@ -1,4 +1,3 @@
-
 /*
   EC_IT143_W3.4_ar.sql
   Author: Adriyan Rumbaoa
