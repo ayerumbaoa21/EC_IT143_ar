@@ -1,0 +1,1 @@
+-- Step 2: We want to GROUP BY injury_year and COUNT injury IDs.

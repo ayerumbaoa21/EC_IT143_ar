@@ -1,0 +1,1 @@
+-- Step 1: What is the number of injuries per year?

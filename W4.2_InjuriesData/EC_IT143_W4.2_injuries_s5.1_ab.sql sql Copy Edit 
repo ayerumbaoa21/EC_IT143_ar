@@ -1,0 +1,4 @@
+-- Step 5.1: Create table from view
+SELECT *
+INTO tbl_injuries_per_year
+FROM vw_injuries_per_year;
