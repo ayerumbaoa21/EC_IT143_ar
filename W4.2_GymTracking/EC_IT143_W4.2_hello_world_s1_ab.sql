@@ -1,0 +1,2 @@
+-- EC_IT143_W4.2_gymtracking_s1_ab.sql
+-- Step 1: What is the number of members who exercised each day?

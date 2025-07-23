@@ -1,0 +1,2 @@
+-- EC_IT143_W4.2_gymtracking_s2_ab.sql
+-- Step 2: We want to GROUP BY exercise_date and COUNT member IDs
