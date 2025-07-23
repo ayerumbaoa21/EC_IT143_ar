@@ -1,0 +1,4 @@
+-- EC_IT143_W4.2_hello_world_s1_ab.sql
+-- Step 1: Start with a question
+-- Question: What is 2 + 2?
+-- This is a basic test question to begin learning the answer-focused approach.

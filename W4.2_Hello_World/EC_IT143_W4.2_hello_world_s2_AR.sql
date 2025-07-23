@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_hello_world_s2_ab.sql
+-- Step 2: Begin creating an answer
+-- To find out what 2 + 2 equals, we can use a simple SELECT statement with basic math.
