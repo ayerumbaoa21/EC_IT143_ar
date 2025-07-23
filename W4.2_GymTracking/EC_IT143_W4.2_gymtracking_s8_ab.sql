@@ -1,0 +1,1 @@
+EXEC sp_load_gymtracking_daily_count;

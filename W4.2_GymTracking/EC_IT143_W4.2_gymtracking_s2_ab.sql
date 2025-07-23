@@ -1,0 +1,1 @@
+-- Step 2: We want to GROUP BY exercise date and COUNT member IDs
