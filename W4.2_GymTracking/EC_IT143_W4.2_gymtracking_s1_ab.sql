@@ -1,1 +1,0 @@
--- Step 1: What is the number of members who exercised each day?
