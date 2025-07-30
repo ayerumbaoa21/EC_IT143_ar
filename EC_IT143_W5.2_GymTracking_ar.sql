@@ -35,4 +35,14 @@ FROM dbo.GymTracking
 GROUP BY Workout_Type
 ORDER BY AvgCaloriesBurned DESC;
 
--- Q4: Average BMI group
+-- Q4: What is the average BMI by experience level?
+-- A4: Analyzes how BMI varies across different levels of workout experience.
+-- Author: Joysunrose Capulac Saplaco
+
+SELECT Experience_Level, 
+       COUNT(*) AS MemberCount,
+       AVG(BMI) AS AvgBMI
+FROM dbo.GymTracking
+GROUP BY Experience_Level
+ORDER BY Experience_Level;
+
