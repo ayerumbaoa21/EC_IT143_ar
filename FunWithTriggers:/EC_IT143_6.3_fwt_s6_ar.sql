@@ -1,0 +1,2 @@
+-- Question: How can I track changes in an audit table for historical changes?
+-- Should I create an audit table with INSERTED and DELETED rows?
